@@ -3,3 +3,5 @@
 date
 pwd
 ls
+ls -a
+ls -a /opt
