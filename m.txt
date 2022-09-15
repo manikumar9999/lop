@@ -1,7 +1,8 @@
 
 #! /bin/bash
 date
-pwd
+$pwd
 ls
-ls -a
-ls -a /opt
+$ls -a
+$ ls -a /opt
+$hostname
